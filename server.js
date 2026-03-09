@@ -6,8 +6,6 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
  const movies = [
-    { id: 1, name: "DDLJ" },
-      { id: 2, name: "PK" },
     {
     "Title": "Dil Bechara",
     "Year": "2020",
@@ -350,7 +348,169 @@ app.use(express.json());
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
-}
+     },
+    {
+    "Title": "Sholay",
+    "Year": "1977",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "N/A",
+    "Director": "S.A. Saeedi",
+    "Writer": "N/A",
+    "Actors": "Amaan, Jamal Baber, Talat Iqbal",
+    "Plot": "N/A",
+    "Language": "Pashtu",
+    "Country": "Pakistan",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.6/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.6",
+    "imdbVotes": "14",
+    "imdbID": "tt0400818",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+     },
+    {
+    "Title": "The Sholay Girl",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "08 Mar 2019",
+    "Runtime": "106 min",
+    "Genre": "Action, Biography, Drama",
+    "Director": "Aditya Sarpotdar",
+    "Writer": "Faizal Akhtar, Shrabani Deodhar, Sambhav Khetarpal",
+    "Actors": "Bidita Bag, Chandan Roy Sanyal, Vineet Raina",
+    "Plot": "The journey of Indian film industry's first stunt woman Reshma Pathan, it will trace the life of Reshma and her stint in movies as a body double for various actresses. Bidita Bag plays the lead role of feisty stunt-woman.",
+    "Language": "Hindi, Marathi, English",
+    "Country": "India",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNmYzcyODYtOWFhYi00NmFmLTgzYzgtODE0ZWRmMmIzNzViXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "120",
+    "imdbID": "tt10011102",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+     },
+    {
+    "Title": "Sholay: The Final Cut",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "12 Dec 2025",
+    "Runtime": "209 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Ramesh Sippy",
+    "Writer": "N/A",
+    "Actors": "Dharmendra, Sanjeev Kumar, Amitabh Bachchan",
+    "Plot": "Sholay, India's greatest film, returns in 4K with Dolby 5.1. This 1975 multi-genre masterpiece ran for 5 years straight, featuring top stars and inspired by global classics. First Hindi film in 70mm with stereo sound.",
+    "Language": "Hindi",
+    "Country": "N/A",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmRkN2I4MGUtYjAwMC00NjNjLWIxNWItYTMzZWViNDc0NDVhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "9.0/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.0",
+    "imdbVotes": "105",
+    "imdbID": "tt39151096",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+     },
+    {
+    "Title": "Ramgarh Ke Sholay",
+    "Year": "1991",
+    "Rated": "Not Rated",
+    "Released": "21 Jun 1991",
+    "Runtime": "123 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Ajit Dewani",
+    "Writer": "Ajit Dewani, Miraq Mirza",
+    "Actors": "Kishore Bhanushali, Dinesh Hingoo, Amjad Khan",
+    "Plot": "Two imposters of well-known actors turn up to save the village from the terror of the local ruffian, Gabbar! But will they succeed?",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWMwZjdhZTgtNzI3Mi00YzkwLWE4ZGEtMTExMmQyOGFkZGJhXkEyXkFqcGdeQXVyMjkwMzIxNTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.8/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.8",
+    "imdbVotes": "79",
+    "imdbID": "tt0271138",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+     },
+    {
+    "Title": "Duplicate Sholay",
+    "Year": "2002",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "147 min",
+    "Genre": "Comedy",
+    "Director": "Kanti Shah",
+    "Writer": "Bashir Babar",
+    "Actors": "Sapna Sappu, Amit Pachori, Dimple",
+    "Plot": "When Thakur Baldev Singh gets blinded by notorious bandit Gabbar Singh, he seeks the assistance of two former convicts, Jay and Veeru, to bring Gabbar before him so that he can mete out justice in his own way. This was the plot of...",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGMzMTQ1ZmMtNmUyYi00MTZjLTg4YWQtOWE3MTE2YWI4OWMxXkEyXkFqcGdeQXVyMDkwNTkwNg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.3",
+    "imdbVotes": "78",
+    "imdbID": "tt0391099",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+     },
+    
+    
     
   ];
 
