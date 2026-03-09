@@ -1,10 +1,3 @@
-const express = require("express");
-const app = express();
-
-const PORT = process.env.PORT || 3000;
-
-app.use(express.json());
-
  const movies = [
     { id: 1, name: "DDLJ" },
       { id: 2, name: "PK" },
@@ -353,45 +346,3 @@ app.use(express.json());
 }
     
   ];
-
-app.get("/", (req, res) => {
-  res.send("Movie API Running");
-});
-
-
-// GET ALL MOVIES
-app.get("/movies", (req, res) => {
-
-  const { search, year } = req.query;
-
-  let result = movies;
-
-  if (search) {
-    result = result.filter(movie =>
-      movie.Title && movie.Title.toLowerCase().includes(search.toLowerCase())
-    );
-  }
-
-  if (year) {
-    result = result.filter(movie => movie.Year == year);
-  }
-
-  res.json(result);
-});
-
-
-// GET SINGLE MOVIE
-app.get("/movies/:imdbID", (req, res) => {
-
-  const movie = movies.find(m => m.imdbID == req.params.imdbID);
-
-  if (!movie) {
-    return res.status(404).json({ message: "Movie not found" });
-  }
-
-  res.json(movie);
-});
-
-app.listen(PORT, () => {
-  console.log(`Server running on ${PORT}`);
-});
