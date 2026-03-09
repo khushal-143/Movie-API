@@ -3,7 +3,7 @@ const cors = require("cors");
 const app = express();
 
 const PORT = process.env.PORT || 3000;
-
+  app.use(cors());
 app.use(express.json());
 
  const movies = [
@@ -509,20 +509,20 @@ app.use(express.json());
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
-     },
-    
-    
-    
-  ];
+},
 
-app.get("/", (req, res) => {
+
+
+];
+  
+  app.get("/", (req, res) => {
   res.send("Movie API Running");
 });
 
 
 // GET ALL MOVIES
 app.get("/movies", (req, res) => {
-
+    
   const { search, year } = req.query;
 
   let result = movies;
@@ -556,6 +556,3 @@ app.get("/movies/:imdbID", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on ${PORT}`);
 });
-
-app.use(cors());
-app.use(express.json());
