@@ -3202,7 +3202,2576 @@ app.use(express.json());
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
-}
+},{
+    "Title": "Khiladi",
+    "Year": "1992",
+    "Rated": "Not Rated",
+    "Released": "05 Jun 1992",
+    "Runtime": "157 min",
+    "Genre": "Action, Musical, Mystery",
+    "Director": "Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla",
+    "Writer": "Aadesh K. Arjun, Saroj Khan, Naeem-Ejaz",
+    "Actors": "Akshay Kumar, Ayesha Jhulka, Deepak Tijori",
+    "Plot": "Two friends wage bets for money and fun. There comes a time where they race to win the biggest bet, for they know that their lives depend on it.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzBkNTFmNzctZjEwMy00ZjgzLTlmN2QtYTJiOGI3NzIyNzUyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.1",
+    "imdbVotes": "8,596",
+    "imdbID": "tt0104605",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Khiladi 786",
+    "Year": "2012",
+    "Rated": "Not Rated",
+    "Released": "07 Dec 2012",
+    "Runtime": "141 min",
+    "Genre": "Action, Comedy, Romance",
+    "Director": "Ashish R. Mohan",
+    "Writer": "Kushal Ved Bakshi, Bunty Rathore, Himesh Reshammiya",
+    "Actors": "Akshay Kumar, Asin Thottumkal, Mithun Chakraborty",
+    "Plot": "A father who runs a marriage bureau believes that his son is a failure in life. In order to prove him wrong, his son takes on the task of finding a match for a gangster's sister.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "7 wins & 1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWEzOWMyODMtMzQ4Yy00ODMxLTllZWQtNjQ5YTAxNGZkNDE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.4",
+    "imdbVotes": "8,030",
+    "imdbID": "tt2166214",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$379,466",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Mr. & Mrs. Khiladi",
+    "Year": "1997",
+    "Rated": "Not Rated",
+    "Released": "09 Oct 1997",
+    "Runtime": "133 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "David Dhawan",
+    "Writer": "Rumi Jaffery, E.V.V. Satyanarayana",
+    "Actors": "Akshay Kumar, Juhi Chawla, Paresh Rawal",
+    "Plot": "A slacker (Akshay Kumar) must impress a wealthy man to marry her daughter (Juhi Chawla).",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2YxNjM2MmYtZDhiZC00NTIyLWE2ZjgtMTZjZGJmNWM3MzkyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.3",
+    "imdbVotes": "6,807",
+    "imdbID": "tt0162480",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Main Khiladi Tu Anari",
+    "Year": "1994",
+    "Rated": "N/A",
+    "Released": "23 Sep 1994",
+    "Runtime": "175 min",
+    "Genre": "Action, Comedy, Drama",
+    "Director": "Sameer Malkan",
+    "Writer": "Sachin Bhowmick, Kader Khan",
+    "Actors": "Akshay Kumar, Saif Ali Khan, Shilpa Shetty Kundra",
+    "Plot": "A Bombay police officer seeks revenge when his brother is killed by a powerful underworld figure. Things get complicated when a matinee movie idol begins to shadow the policeman so he can research a movie role.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTg1YmJlMmItMjcyNi00ODg3LTk0NGQtMDVkYmI1MGFhODFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "6,558",
+    "imdbID": "tt0110438",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Khiladi",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "11 Feb 2022",
+    "Runtime": "154 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Ramesh Varma",
+    "Writer": "Ramesh Varma, Srikanth Vissa, Sagar",
+    "Actors": "Ravi Teja, Arjun Sarja, Unni Mukundan",
+    "Plot": "A murder suspect escapes police custody due to criminologist Priya's misjudgment of her case for the thesis. Priya along with Arjun solves the mystery around the murder and money laundering which lead to the murder.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjBhZWZhYzItYmNkYi00ZjhiLTljMGItMjlmMTQ2ODZkOTQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.2/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.2",
+    "imdbVotes": "3,882",
+    "imdbID": "tt13299052",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "International Khiladi",
+    "Year": "1999",
+    "Rated": "Not Rated",
+    "Released": "26 Mar 1999",
+    "Runtime": "175 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Umesh Mehra",
+    "Writer": "Umesh Mehra, Ved Prakash Sharma",
+    "Actors": "Akshay Kumar, Twinkle Khanna, Rajat Bedi",
+    "Plot": "A crime boss is accused by a reporter of murdering her brother and raping her. He investigates the frame-up.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2MjA3OTU4M15BMl5BanBnXkFtZTcwMTU2ODgzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.8/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.8",
+    "imdbVotes": "2,450",
+    "imdbID": "tt0196635",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$47,238",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Khiladi 420",
+    "Year": "2000",
+    "Rated": "Not Rated",
+    "Released": "29 Dec 2000",
+    "Runtime": "157 min",
+    "Genre": "Action, Romance, Thriller",
+    "Director": "Neeraj Vora",
+    "Writer": "Uttam Gada, Neeraj Vora",
+    "Actors": "Akshay Kumar, Mahima Chaudhry, Antara Mali",
+    "Plot": "Dev, a conman, gets killed by his wife Ritu, after she learns that the former is a debt-ridden thug who married her only to repay his debts. Her life turns upside down when she meets Anand, Dev's identical twin brother.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2ODYzMTM4M15BMl5BanBnXkFtZTcwODY2ODgzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.2/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.2",
+    "imdbVotes": "2,130",
+    "imdbID": "tt0255305",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$26,731",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Ek Khiladi Ek Haseena",
+    "Year": "2005",
+    "Rated": "Not Rated",
+    "Released": "18 Nov 2005",
+    "Runtime": "143 min",
+    "Genre": "Crime, Thriller",
+    "Director": "Suparn Varma",
+    "Writer": "Suparn Varma, Sudarshana Dwivedi",
+    "Actors": "Fardeen Khan, Koena Mitra, Kay Kay Menon",
+    "Plot": "Following his best friend's murder, a con-man finds himself plunged in debt against a feared gangster and assembles an eclectic bunch of fellow scamsters for a big job: 25 days, 25 crores.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 win",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDQxNzgxODgtY2NkYi00Mjg0LTkyY2YtOWE2ZjUyNDhjOGE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "674",
+    "imdbID": "tt0461209",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$90,869",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Jaani Dushman: Ek Anokhi Kahani",
+    "Year": "2002",
+    "Rated": "Not Rated",
+    "Released": "16 Aug 2002",
+    "Runtime": "170 min",
+    "Genre": "Action, Fantasy, Horror",
+    "Director": "Rajkumar Kohli",
+    "Writer": "AbhishekSinha78, Naveena Bhandari, Ravi Shankar Jaiswal",
+    "Actors": "Sunny Deol, Arman Kohli, Manisha Koirala",
+    "Plot": "A shape-shifting snake exacts vengeance on a group of friends for a crime they did not even commit.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjc5MTljZmEtODE1Mi00MDdhLTk0MjMtODkyYmU0NzM5YWJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "2.7/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "2.7",
+    "imdbVotes": "4,065",
+    "imdbID": "tt0326983",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Dushman Duniya Ka",
+    "Year": "1996",
+    "Rated": "Not Rated",
+    "Released": "20 Sep 1996",
+    "Runtime": "153 min",
+    "Genre": "Drama",
+    "Director": "Mehmood, Tabrez Hashmi",
+    "Writer": "Aziz Quaisi",
+    "Actors": "Laila, Mehmood, Manzoor Ali",
+    "Plot": "A social drama about the drug addiction among the youth and its adverse effects on their lives.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmY4ZjA3NzctNzA3Mi00M2FmLTgzZGMtMzZhODgxOGU1NDQwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.9/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "3.9",
+    "imdbVotes": "768",
+    "imdbID": "tt0116153",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Main Tera Dushman",
+    "Year": "1989",
+    "Rated": "N/A",
+    "Released": "03 Feb 1989",
+    "Runtime": "155 min",
+    "Genre": "Action, Adventure, Crime",
+    "Director": "Vijay Reddy",
+    "Writer": "Anwar Khan",
+    "Actors": "Jackie Shroff, Jaya Prada, Sunny Deol",
+    "Plot": "Honest and diligent Forest Officer Kishan Srivastav (Jackie Shroff) and his wife Jaya (Jaya Pradha) come to the rural area of Ramgarh, and upset the criminal activities of Thakur Dayalu (Anupam Kher), a corrupt Police Inspector Ki...",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzc5NzA3ZTktNWQxYS00NjkxLTkwZTgtYjZkOTgwOGRlNjJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.4",
+    "imdbVotes": "108",
+    "imdbID": "tt0097813",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Aulad Ke Dushman",
+    "Year": "1993",
+    "Rated": "Not Rated",
+    "Released": "03 Dec 1993",
+    "Runtime": "152 min",
+    "Genre": "Drama",
+    "Director": "Rajkumar Kohli",
+    "Writer": "Lalit Mahajan",
+    "Actors": "Vikas Anand, Harbans Darshan M. Arora, Raj Babbar",
+    "Plot": "Rajan K. Choudhry is a wealthy industrialist. He lives in a palatial house with his older brother, and only son, Vikram. Vikram is a womanizer, alcoholic, and late party-goer, who has been handed everything on a silver plater by h...",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDgzYWYxMDAtNDdhYS00YjQxLTlmMmMtZDNlNzkwNzg1MDMxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.2/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.2",
+    "imdbVotes": "52",
+    "imdbID": "tt0231197",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Dushman",
+    "Year": "1990",
+    "Rated": "Not Rated",
+    "Released": "N/A",
+    "Runtime": "146 min",
+    "Genre": "Action, Drama",
+    "Director": "Shakti Samanta",
+    "Writer": "N/A",
+    "Actors": "Mithun Chakraborty, Mandakini, Sadashiv Amrapurkar",
+    "Plot": "Rakesh (a nickname \"Bullet\"), appeared the tool in hands of experienced gangsters, rises, not knowing that, on a way of the father which has decided to take justice in own hands and to revenge for family tragedy.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTczNDEyZmEtYWQ5OS00NWNjLTllODItYWNlMWQxZjFjYmI1XkEyXkFqcGdeQXVyMjU4NDY1ODA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "50",
+    "imdbID": "tt0268273",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Go Goa Gone",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "10 May 2013",
+    "Runtime": "111 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Krishna D.K., Raj Nidimoru",
+    "Writer": "Krishna D.K., Kunal Kemmu, Sita Menon",
+    "Actors": "Saif Ali Khan, Kunal Kemmu, Vir Das",
+    "Plot": "A group of friends, just looking to have a good time in a rave party on a remote island in Goa, find out that the island is infested with Zombies.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 win & 7 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ1NWI2M2MtOGVkNy00ZjViLWJiNmYtMjQ4NDA3YjNmZDczXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.7",
+    "imdbVotes": "15,740",
+    "imdbID": "tt2436516",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$298,457",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Hera Pheri",
+    "Year": "2000",
+    "Rated": "Not Rated",
+    "Released": "31 Mar 2000",
+    "Runtime": "156 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Priyadarshan",
+    "Writer": "Siddique, Lal, Neeraj Vora",
+    "Actors": "Akshay Kumar, Suniel Shetty, Paresh Rawal",
+    "Plot": "Two tenants and a landlord look for answers to all their money problems - but when their opportunity arrives, will they know what to do with it?",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "8 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDZmMGEwMjQtNjFlNi00ZGIxLTlkZjItNmU3Mzg4Y2E0ZjUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.2",
+    "imdbVotes": "75,076",
+    "imdbID": "tt0242519",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Phir Hera Pheri",
+    "Year": "2006",
+    "Rated": "N/A",
+    "Released": "09 Jun 2006",
+    "Runtime": "153 min",
+    "Genre": "Comedy, Crime",
+    "Director": "Neeraj Vora",
+    "Writer": "Neeraj Vora",
+    "Actors": "Akshay Kumar, Suniel Shetty, Paresh Rawal",
+    "Plot": "A twist of fate changes the lives of Raju, Shyam and Baburao when they get cheated by a fraudster. They must now find a way to repay a loan taken from a dreaded gangster.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "3 wins & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNkZTExMWYtMGZjMy00NGUwLWJmMWEtOThjYmZjY2Q0N2M5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.3",
+    "imdbVotes": "29,070",
+    "imdbID": "tt0419058",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Bhagam Bhag",
+    "Year": "2006",
+    "Rated": "Not Rated",
+    "Released": "22 Dec 2006",
+    "Runtime": "157 min",
+    "Genre": "Comedy, Drama, Mystery",
+    "Director": "Priyadarshan",
+    "Writer": "Neeraj Vora, Jay Master, Sarim Momin",
+    "Actors": "Akshay Kumar, Govinda, Paresh Rawal",
+    "Plot": "The members of a drama troupe fall in trouble when they are framed for a murder. Things go worse when they find their actress committing suicide, which is somehow linked with the murder.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNmJjMDYtNTFjOS00NDA0LWI1NTMtNjc5NDRkZWQ2NjMyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.7",
+    "imdbVotes": "16,253",
+    "imdbID": "tt0805184",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$789,963",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Happy Phirr Bhag Jayegi",
+    "Year": "2018",
+    "Rated": "Not Rated",
+    "Released": "24 Aug 2018",
+    "Runtime": "136 min",
+    "Genre": "Comedy",
+    "Director": "Mudassar Aziz",
+    "Writer": "Mudassar Aziz",
+    "Actors": "Sonakshi Sinha, Diana Penty, Jimmy Shergill",
+    "Plot": "Harpreet Kaur, a woman who travels to China to find her fiance, gets mistakenly kidnapped by some thugs whose assignment was to abduct another woman of the same name travelling by the same flight.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 win & 2 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWFkYzhmYTEtMjk3ZS00ZDhkLTliYTEtM2YyOTkxZTc3ZTNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.5",
+    "imdbVotes": "1,518",
+    "imdbID": "tt7881542",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$103,385",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Dan Da Dan: First Encounter",
+    "Year": "2024",
+    "Rated": "R",
+    "Released": "13 Sep 2024",
+    "Runtime": "83 min",
+    "Genre": "Animation, Action, Comedy",
+    "Director": "Fûga Yamashiro",
+    "Writer": "Hiroshi Seko, Yukinobu Tatsu",
+    "Actors": "Shion Wakayama, Natsuki Hanae, Mayumi Tanaka",
+    "Plot": "Momo Ayase is a school girl who meets her classmate Ken Takakura (named after the actor). Their unlikely friendship will face them against ghosts and aliens in a series of dark and funny adventures.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmE4NGI0NWUtOGFmNS00Yzk4LWFjYWYtYjU2MTAxYTMxMGQ5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.2",
+    "imdbVotes": "2,690",
+    "imdbID": "tt33343397",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "De Dana Dan",
+    "Year": "2009",
+    "Rated": "Not Rated",
+    "Released": "27 Nov 2009",
+    "Runtime": "162 min",
+    "Genre": "Comedy, Crime",
+    "Director": "Priyadarshan",
+    "Writer": "Jay Master, Ashiesh Pandit, Priyadarshan",
+    "Actors": "Akshay Kumar, Suniel Shetty, Katrina Kaif",
+    "Plot": "Two down on their luck men tries to kidnap a wealthy businesswoman's dog to demand a hefty ransom from her. Things goes haywire when the dog goes missing.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGU3MDg5M2UtY2M5OC00NDE2LWIxYjEtMmVjNzIwMjZmNDYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "11,466",
+    "imdbID": "tt1255951",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$944,979",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Chup Chup Ke",
+    "Year": "2006",
+    "Rated": "Not Rated",
+    "Released": "09 Jun 2006",
+    "Runtime": "164 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Priyadarshan, Kookie Gulati",
+    "Writer": "Priyadarshan, Neeraj Vora, Meccartin",
+    "Actors": "Shahid Kapoor, Kareena Kapoor, Om Puri",
+    "Plot": "A debt-ridden young man attempts suicide, but is rescued only to find that his luck is finally turning.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3MTMzNjUwOF5BMl5BanBnXkFtZTcwODgxODMzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "13,541",
+    "imdbID": "tt0464160",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$334,618",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Dhurandhar",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "05 Dec 2025",
+    "Runtime": "214 min",
+    "Genre": "Action, Adventure, Crime",
+    "Director": "Aditya Dhar",
+    "Writer": "Aditya Dhar, Ojas Gautam, Shivkumar V. Panicker",
+    "Actors": "Ranveer Singh, Akshaye Khanna, Sanjay Dutt",
+    "Plot": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "15 wins & 15 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzFiNTVkZjYtM2I3Yi00MGNjLWEyYTAtMGViNGExZmMzMGMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.3",
+    "imdbVotes": "118,730",
+    "imdbID": "tt33014583",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$19,702,994",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Dhurandhar: The Revenge",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "19 Mar 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Thriller",
+    "Director": "Aditya Dhar",
+    "Writer": "N/A",
+    "Actors": "Ranveer Singh, Sara Arjun, Rakesh Bedi",
+    "Plot": "Hamza Ali Mazari, whose real identity is Jaskirat Singh Rangi, pursues his undercover operation within Pakistan's criminal world while tracking down Majo.",
+    "Language": "Hindi, Telugu, Tamil, Kannada, Malayalam",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTU1Zjk4MTYtMjc2YS00NjI5LWJkOWEtMjJlOGQ0ZTVjNmFjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt39139925",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "3 Idiots",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "25 Dec 2009",
+    "Runtime": "170 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Rajkumar Hirani",
+    "Writer": "Abhijat Joshi, Rajkumar Hirani, Vidhu Vinod Chopra",
+    "Actors": "Aamir Khan, Madhavan, Mona Singh",
+    "Plot": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "Language": "Hindi, English",
+    "Country": "India",
+    "Awards": "64 wins & 30 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "8.4",
+    "imdbVotes": "474,710",
+    "imdbID": "tt1187043",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$6,532,874",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Game of Thrones",
+    "Year": "2011–2019",
+    "Rated": "TV-MA",
+    "Released": "17 Apr 2011",
+    "Runtime": "57 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "N/A",
+    "Writer": "David Benioff, D.B. Weiss",
+    "Actors": "Emilia Clarke, Peter Dinklage, Kit Harington",
+    "Plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 59 Primetime Emmys. 396 wins & 655 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "9.2/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.2",
+    "imdbVotes": "2,535,509",
+    "imdbID": "tt0944947",
+    "Type": "series",
+    "totalSeasons": "8",
+    "Response": "True"
+},{
+    "Title": "The Imitation Game",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "25 Dec 2014",
+    "Runtime": "114 min",
+    "Genre": "Biography, Drama, Thriller",
+    "Director": "Morten Tyldum",
+    "Writer": "Graham Moore, Andrew Hodges",
+    "Actors": "Benedict Cumberbatch, Keira Knightley, Matthew Goode",
+    "Plot": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life.",
+    "Language": "English, German",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 49 wins & 167 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjI3NjY1Mjg3MV5BMl5BanBnXkFtZTgwMzk5MDQ3MjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "8.0",
+    "imdbVotes": "872,710",
+    "imdbID": "tt2084970",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$91,125,683",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Squid Game",
+    "Year": "2021–2025",
+    "Rated": "TV-MA",
+    "Released": "17 Sep 2021",
+    "Runtime": "N/A",
+    "Genre": "Action, Crime, Drama",
+    "Director": "N/A",
+    "Writer": "Hwang Dong-hyuk",
+    "Actors": "Lee Jung-jae, Wi Ha-joon, Halley Kim",
+    "Plot": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. A tempting prize awaits, but with deadly high stakes.",
+    "Language": "Korean, English, Urdu",
+    "Country": "South Korea",
+    "Awards": "Won 6 Primetime Emmys. 55 wins & 90 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.9",
+    "imdbVotes": "746,739",
+    "imdbID": "tt10919420",
+    "Type": "series",
+    "totalSeasons": "3",
+    "Response": "True"
+},{
+    "Title": "Sherlock Holmes: A Game of Shadows",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "16 Dec 2011",
+    "Runtime": "129 min",
+    "Genre": "Action, Adventure, Mystery",
+    "Director": "Guy Ritchie",
+    "Writer": "Michele Mulroney, Kieran Mulroney, Arthur Conan Doyle",
+    "Actors": "Robert Downey Jr., Jude Law, Jared Harris",
+    "Plot": "Detective Sherlock Holmes is on the trail of criminal mastermind Professor Moriarty, who is carrying out a string of random crimes across Europe.",
+    "Language": "English, Romany, German, Italian, French",
+    "Country": "United States",
+    "Awards": "3 wins & 10 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQwMzQ5Njk1MF5BMl5BanBnXkFtZTcwNjIxNzIxNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "7.4",
+    "imdbVotes": "498,829",
+    "imdbID": "tt1515091",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$186,848,418",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "The Game",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "12 Sep 1997",
+    "Runtime": "129 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "David Fincher",
+    "Writer": "John Brancato, Michael Ferris",
+    "Actors": "Michael Douglas, Deborah Kara Unger, Sean Penn",
+    "Plot": "A mysterious game invades a man's ordered existence.",
+    "Language": "English, Cantonese, German, Spanish, Thai",
+    "Country": "United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGUzNzQwNmMtNzI3Mi00ZDIwLWJlM2ItMTA5N2Q2ZDMxMjJiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "7.7",
+    "imdbVotes": "465,745",
+    "imdbID": "tt0119174",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$48,323,648",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Game Night",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "23 Feb 2018",
+    "Runtime": "100 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "John Francis Daley, Jonathan Goldstein",
+    "Writer": "Mark Perez",
+    "Actors": "Jason Bateman, Rachel McAdams, Kyle Chandler",
+    "Plot": "A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 22 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.9",
+    "imdbVotes": "275,804",
+    "imdbID": "tt2704998",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$69,268,230",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Ender's Game",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "01 Nov 2013",
+    "Runtime": "114 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Gavin Hood",
+    "Writer": "Gavin Hood, Orson Scott Card",
+    "Actors": "Harrison Ford, Asa Butterfield, Hailee Steinfeld",
+    "Plot": "Young Ender Wiggin is recruited by the International Military to lead the fight against the Formics, an insectoid alien race who had previously tried to invade Earth and had inflicted heavy losses on humankind.",
+    "Language": "English, Arabic, Spanish",
+    "Country": "United States",
+    "Awards": "1 win & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.6",
+    "imdbVotes": "263,151",
+    "imdbID": "tt1731141",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$61,737,191",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Molly's Game",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "05 Jan 2018",
+    "Runtime": "140 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Aaron Sorkin",
+    "Writer": "Aaron Sorkin, Molly Bloom",
+    "Actors": "Jessica Chastain, Idris Elba, Kevin Costner",
+    "Plot": "The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.",
+    "Language": "English, French",
+    "Country": "United States, Canada, China",
+    "Awards": "Nominated for 1 Oscar. 8 wins & 51 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmYxYTg1ZDktNjc1Yy00MjVlLTk2Y2MtNmMzZTBkZDNjZjdlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.4",
+    "imdbVotes": "199,224",
+    "imdbID": "tt4209788",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$28,780,744",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Spy Game",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "21 Nov 2001",
+    "Runtime": "126 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Tony Scott",
+    "Writer": "Michael Frost Beckner, David Arata",
+    "Actors": "Robert Redford, Brad Pitt, Catherine McCormack",
+    "Plot": "A CIA agent tries to rescue his one-time protege who awaits execution in a Chinese prison.",
+    "Language": "English, German, Arabic, French, Cantonese",
+    "Country": "United Kingdom, France, Germany, Japan, United States",
+    "Awards": "3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTljZmI1MjctMWJmMC00ZjJmLTkwNzUtNGQxNWJhZGRjMjM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "7.1",
+    "imdbVotes": "177,136",
+    "imdbID": "tt0266987",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$62,362,560",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Gerald's Game",
+    "Year": "2017",
+    "Rated": "TV-MA",
+    "Released": "29 Sep 2017",
+    "Runtime": "103 min",
+    "Genre": "Drama, Horror, Thriller",
+    "Director": "Mike Flanagan",
+    "Writer": "Mike Flanagan, Jeff Howard, Stephen King",
+    "Actors": "Carla Gugino, Bruce Greenwood, Chiara Aurelia",
+    "Plot": "A couple tries to spice up their marriage in a remote lake house. After the husband dies unexpectedly, the wife is left handcuffed to their bed frame and must fight to survive and break free.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "4 wins & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2ZjU5ZWMtMmQ4OS00ZTQzLWIwOWMtYTBmOTljYTIwNjM3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "6.5",
+    "imdbVotes": "140,266",
+    "imdbID": "tt3748172",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Garam Masala",
+    "Year": "2005",
+    "Rated": "Not Rated",
+    "Released": "03 Nov 2005",
+    "Runtime": "146 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Priyadarshan",
+    "Writer": "Priyadarshan, Neeraj Vora, Jay Master",
+    "Actors": "Akshay Kumar, John Abraham, Paresh Rawal",
+    "Plot": "A rib tickling tale of two flirts who constantly flirt with women despite one of them being engaged. Chaos ensues when the fiancé finds out that her to-be groom is cheating on her.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "3 wins & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ5YmIxNWMtZDkxYy00YjYwLWIwYWYtZGQ3OGRkNDY3Y2E3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "18,598",
+    "imdbID": "tt0453671",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,007,943",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "The Kissing Booth",
+    "Year": "2018",
+    "Rated": "TV-14",
+    "Released": "11 May 2018",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Vince Marcello",
+    "Writer": "Vince Marcello, Beth Reekles",
+    "Actors": "Joey King, Jacob Elordi, Joel Courtney",
+    "Plot": "A high school student is forced to confront her secret crush at a kissing booth.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "1 win & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "17%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "102,962",
+    "imdbID": "tt3799232",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "The Kissing Booth 2",
+    "Year": "2020",
+    "Rated": "TV-14",
+    "Released": "24 Jul 2020",
+    "Runtime": "134 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Vince Marcello",
+    "Writer": "Vince Marcello, Jay S Arnold, Beth Reekles",
+    "Actors": "Joey King, Joel Courtney, Jacob Elordi",
+    "Plot": "In the sequel to 2018's The Kissing Booth', high school senior Elle juggles a long-distance relationship with her dreamy boyfriend Noah, college applications, and a new friendship with a handsome classmate that could change everyt...",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "2 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2IzODA4YTktZDkwOS00MTRkLWE3NjgtYjMwZTFlNTBhNjhjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "29%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "39/100"
+        }
+    ],
+    "Metascore": "39",
+    "imdbRating": "5.7",
+    "imdbVotes": "43,289",
+    "imdbID": "tt9784456",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "The Kissing Booth 3",
+    "Year": "2021",
+    "Rated": "TV-14",
+    "Released": "11 Aug 2021",
+    "Runtime": "112 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Vince Marcello",
+    "Writer": "Beth Reekles, Vince Marcello, Jay S Arnold",
+    "Actors": "Joey King, Joel Courtney, Jacob Elordi",
+    "Plot": "It's the summer before Elle Evans is set to head off to college, and she has a big decision to make.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWQyMTJiZWYtNzQ2Mi00Y2E1LThmNzgtNGU0ZjQ3NTg5YWRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "4.8",
+    "imdbVotes": "26,511",
+    "imdbID": "tt12783454",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Golmaal 3",
+    "Year": "2010",
+    "Rated": "Not Rated",
+    "Released": "05 Nov 2010",
+    "Runtime": "155 min",
+    "Genre": "Action, Comedy, Drama",
+    "Director": "Rohit Shetty",
+    "Writer": "Bunty Rathore, Yunus Sajawal, Sajid",
+    "Actors": "Mithun Chakraborty, Ajay Devgn, Kareena Kapoor",
+    "Plot": "In Goa, Pritam meets his love Geeta after many years. They decide to get married but the feud between their respective children creates tension in their marriage.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "9 wins & 22 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmEyM2M5OTItYjU1Ni00Mjk2LTgzZTMtOGZhZGU4MTA2MzcxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "44%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.6",
+    "imdbVotes": "10,063",
+    "imdbID": "tt1562859",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,132,192",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Golmaal Returns",
+    "Year": "2008",
+    "Rated": "Not Rated",
+    "Released": "29 Oct 2008",
+    "Runtime": "135 min",
+    "Genre": "Comedy, Crime, Mystery",
+    "Director": "Rohit Shetty",
+    "Writer": "Indie, Rumi Jaffery, Ashiesh Pandit",
+    "Actors": "Ajay Devgn, Kareena Kapoor, Arshad Warsi",
+    "Plot": "A man is sandwiched between his over possessive wife and a police inspector, where he is suspected for adultery and murder.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "3 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjdlYjIyZmQtODdjNC00ZmU1LTkxMjctZDI2ODhiMGQ3YWMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.3",
+    "imdbVotes": "10,094",
+    "imdbID": "tt1092005",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Golmaal Again",
+    "Year": "2017",
+    "Rated": "Not Rated",
+    "Released": "20 Oct 2017",
+    "Runtime": "140 min",
+    "Genre": "Action, Comedy, Horror",
+    "Director": "Rohit Shetty",
+    "Writer": "Rohit Shetty, Yunus Sajawal, Farhad Samji",
+    "Actors": "Ajay Devgn, Arshad Warsi, Tabu",
+    "Plot": "The gang encounters with some spiritual bodies and finds out the truth about the Jamnadas Orphanage where they were brought up.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "5 wins & 7 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDljYzk0MzgtY2ZlMi00MjQ1LTk0MzYtZGFiZjdiM2VkMWU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.0",
+    "imdbVotes": "11,032",
+    "imdbID": "tt1806913",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,013,893",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Golmaal: Fun Unlimited",
+    "Year": "2006",
+    "Rated": "N/A",
+    "Released": "14 Jul 2006",
+    "Runtime": "150 min",
+    "Genre": "Action, Comedy, Drama",
+    "Director": "Rohit Shetty",
+    "Writer": "Neeraj Vora",
+    "Actors": "Ajay Devgn, Arshad Warsi, Sharman Joshi",
+    "Plot": "Four runaway crooks take shelter in a bungalow which is owned by a blind couple.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "2 wins & 8 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWMwZTM3YzEtNzgzMi00YmI3LTkxN2EtZDY1OGM0MDQ2Y2NkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "19,937",
+    "imdbID": "tt0495034",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Dhol",
+    "Year": "2007",
+    "Rated": "N/A",
+    "Released": "14 Sep 2007",
+    "Runtime": "145 min",
+    "Genre": "Comedy, Crime, Mystery",
+    "Director": "Priyadarshan, Aman Ullah",
+    "Writer": "Manisha Korde, Suresh Krishnan, Ram Patil",
+    "Actors": "Sharman Joshi, Tusshar Kapoor, Kunal Kemmu",
+    "Plot": "Four lazy friends try to woo a rich girl, in order to live a wealthy lifestyle. Their plan, however goes horribly wrong after they get embroiled with a notorious criminal.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzk3MDk1NzEtMzI4Yy00YmVhLTg3NzUtYjhlMTJkM2VhZGEwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "8,030",
+    "imdbID": "tt0995035",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "The Boys",
+    "Year": "2019–2026",
+    "Rated": "TV-MA",
+    "Released": "26 Jul 2019",
+    "Runtime": "31S min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "N/A",
+    "Writer": "Eric Kripke",
+    "Actors": "Karl Urban, Jack Quaid, Antony Starr",
+    "Plot": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 4 Primetime Emmys. 26 wins & 96 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGRlZDE2ZGEtZTU5Mi00ODdkLWFmMTEtY2UwMmViNWNmZjczXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.6/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.6",
+    "imdbVotes": "832,322",
+    "imdbID": "tt1190634",
+    "Type": "series",
+    "totalSeasons": "5",
+    "Response": "True"
+},{
+    "Title": "Breaking Bad",
+    "Year": "2008–2013",
+    "Rated": "TV-MA",
+    "Released": "20 Jan 2008",
+    "Runtime": "49 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "N/A",
+    "Writer": "Vince Gilligan",
+    "Actors": "Bryan Cranston, Aaron Paul, Anna Gunn",
+    "Plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's future.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "Won 16 Primetime Emmys. 172 wins & 269 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "9.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "9.5",
+    "imdbVotes": "2,486,656",
+    "imdbID": "tt0903747",
+    "Type": "series",
+    "totalSeasons": "5",
+    "Response": "True"
+},{
+    "Title": "Ek Hi Bhool",
+    "Year": "1981",
+    "Rated": "N/A",
+    "Released": "09 Oct 1981",
+    "Runtime": "144 min",
+    "Genre": "Drama, Family, Romance",
+    "Director": "Rama Rao Tatineni",
+    "Writer": "Bhagyaraj, Rahi Masoom Reza",
+    "Actors": "Jeetendra, Rekha, Nazneen",
+    "Plot": "Sadhana (Rekha) and Ramkumar (Jeetendra) are a married couple. Their marriage gets into troubled waters when Sadhana starts to suspect that Ramkumar is having an affair. Sadhana does not handle the matter properly, and drives him ...",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYThiN2IwY2QtN2Y2NS00OGUwLTgyNTAtMjJhZTcyYTI3NDQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.0",
+    "imdbVotes": "186",
+    "imdbID": "tt0259996",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Tumko Na Bhool Paayenge",
+    "Year": "2002",
+    "Rated": "N/A",
+    "Released": "22 Feb 2002",
+    "Runtime": "160 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Pankaj Parashar",
+    "Writer": "Girish, Girish, Rumi Jaffery",
+    "Actors": "Pankaj Dheer, Arbaaz Khan, Salman Khan",
+    "Plot": "An amnesiac Hindu man remembers his past as a Muslim sharpshooter and an assassin.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzAxYzExZjEtYjE4MC00Yzk0LTkwYTEtYTI1OWM5YTRhOGQ5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "3,661",
+    "imdbID": "tt0310254",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Bhool Chuk Maaf",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "23 May 2025",
+    "Runtime": "140 min",
+    "Genre": "Comedy, Fantasy, Romance",
+    "Director": "Karan Sharma",
+    "Writer": "Karan Sharma, Haider Rizvi",
+    "Actors": "Rajkummar Rao, Wamiqa Gabbi, Sanjay Mishra",
+    "Plot": "Ranjan, a small-town romantic boy from Banaras, lands a government job to marry Titli but forgets his vow to Lord Shiva-only to be trapped until he fulfills his promise. A hilarious tale of love, fate, and redemption unfolds.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjlhZTI1YmEtZDMyYi00YTM5LWI4ZGEtMzYwMjYxZjUyNzQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.8",
+    "imdbVotes": "22,799",
+    "imdbID": "tt32058735",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Bhool Bhulaiyaa 2",
+    "Year": "2022",
+    "Rated": "N/A",
+    "Released": "20 May 2022",
+    "Runtime": "143 min",
+    "Genre": "Comedy, Horror",
+    "Director": "Anees Bazmee",
+    "Writer": "Aakash Kaushik, Farhad Samji",
+    "Actors": "Tabu, Kartik Aaryan, Kiara Advani",
+    "Plot": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit that has been trapped for 18 years.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "10 wins & 35 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTZhY2NjMGItODAyOS00MGVlLTk5ZDYtNzBjMjQ3ZDdkYmZmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "35,287",
+    "imdbID": "tt6455162",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Bhool Bhulaiyaa",
+    "Year": "2007",
+    "Rated": "Not Rated",
+    "Released": "12 Oct 2007",
+    "Runtime": "159 min",
+    "Genre": "Comedy, Horror, Mystery",
+    "Director": "Priyadarshan",
+    "Writer": "Neeraj Vora, Manisha Korde, Madhu Muttam",
+    "Actors": "Akshay Kumar, Vidya Balan, Shiney Ahuja",
+    "Plot": "An NRI and his wife decide to stay in his ancestral home, paying no heed to the warnings about ghosts. Soon, inexplicable occurrences cause him to call a psychiatrist to help solve the mystery.",
+    "Language": "Hindi, Bengali",
+    "Country": "India",
+    "Awards": "1 win & 13 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGI1Y2UwNmQtMmE4MS00ZmVhLTg3YzgtYTg3NGUzOTI5NjdjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "37,026",
+    "imdbID": "tt0995031",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,097,797",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Bhool Bhulaiyaa 3",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "01 Nov 2024",
+    "Runtime": "158 min",
+    "Genre": "Comedy, Fantasy, Horror",
+    "Director": "Anees Bazmee",
+    "Writer": "Aakash Kaushik",
+    "Actors": "Kartik Aaryan, Vidya Balan, Madhuri Dixit",
+    "Plot": "Ruhaan, a fraudster posing as an exorcist, takes on a lucrative case at a haunted castle, unraveling a sinister plot involving mischievous priests, culminating in a hilarious yet thrilling ride filled with unexpected twists and sc...",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "13 wins & 25 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGFhMDQ4MzMtMTUxOC00NDE0LTkzZWMtMzhhMGNiMDlhNDNmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "38%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.6",
+    "imdbVotes": "78,646",
+    "imdbID": "tt26932223",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,230,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Lost Ladies",
+    "Year": "2023",
+    "Rated": "TV-14",
+    "Released": "01 Mar 2024",
+    "Runtime": "122 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Kiran Rao",
+    "Writer": "Biplab Goswami, Sneha Desai, Divy Nidhi Sharma",
+    "Actors": "Nitanshi Goel, Pratibha Ranta, Sparsh Shrivastava",
+    "Plot": "The misadventures of two young brides who get lost from the same train. From mistaken identities to laugh-out-aloud escapades, the ensuing chaos guarantees laughter galore and heartwarming moments.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "66 wins & 63 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGI5NzVmNDktZWY2Ni00ZGMwLTlhMzctNzJhYTgzZmQ2ZjNjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.3",
+    "imdbVotes": "58,723",
+    "imdbID": "tt21626284",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Munjya",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "07 Jun 2024",
+    "Runtime": "123 min",
+    "Genre": "Comedy, Horror",
+    "Director": "Aditya Sarpotdar",
+    "Writer": "Niren Bhatt, Yogesh Chandekar, Tushar Ajgaonkar",
+    "Actors": "Sharvari, Abhay Verma, Mona Singh",
+    "Plot": "A young man's visit to his native village unveils a family secret and a vengeful spirit, the Munjya, who wants to get married. Now the young man must fight to protect himself and his love from Munjya's clutches.",
+    "Language": "Hindi, Tamil, Telugu",
+    "Country": "India",
+    "Awards": "2 wins",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGY4OTA3OWEtZjYxYy00YTBlLWJmYzEtNzM0NDliYzA5OGYwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.4",
+    "imdbVotes": "23,385",
+    "imdbID": "tt27995594",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Stree",
+    "Year": "2018",
+    "Rated": "Not Rated",
+    "Released": "31 Aug 2018",
+    "Runtime": "128 min",
+    "Genre": "Comedy, Horror",
+    "Director": "Amar Kaushik",
+    "Writer": "Raj Nidimoru, Krishna D.K., Sumit Arora",
+    "Actors": "Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi",
+    "Plot": "In the small town of Chanderi, the menfolk live in fear of an evil spirit named \"Stree\" who abducts men in the night. Based on the urban legend of \"Nale Ba\" that went viral in Karnataka in the 1990s.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "12 wins & 31 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODhiZjI1MDMtZjFjOS00NjZiLWI5N2YtZTM2NWIxNmE3MjMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "43,429",
+    "imdbID": "tt8108202",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Stree 2: Sarkate Ka Aatank",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "16 Aug 2024",
+    "Runtime": "147 min",
+    "Genre": "Comedy, Horror",
+    "Director": "Amar Kaushik",
+    "Writer": "Niren Bhatt, Krishna D.K., Raj Nidimoru",
+    "Actors": "Rajkummar Rao, Shraddha Kapoor, Pankaj Tripathi",
+    "Plot": "After the events of Stree, the town of Chanderi is being haunted again. This time, women are mysteriously abducted by a terrifying headless entity. Once again, it's up to Vicky and his friends to save their town and loved ones.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "32 wins & 52 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1NmUxYzItZmVmNy00YmQxLTk4Y2UtZjVkMWUwMWQ5N2IxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.9",
+    "imdbVotes": "46,160",
+    "imdbID": "tt27510174",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,570,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Bhediya",
+    "Year": "2022",
+    "Rated": "Not Rated",
+    "Released": "25 Nov 2022",
+    "Runtime": "156 min",
+    "Genre": "Comedy, Horror, Thriller",
+    "Director": "Amar Kaushik",
+    "Writer": "Niren Bhatt",
+    "Actors": "Varun Dhawan, Kriti Sanon, Abhishek Banerjee",
+    "Plot": "Set in the forests of Arunachal, Bhediya is a story of Bhaskar, a man who gets bitten by a wolf, and begins to transform into the creature. As Bhaskar and his buddies try to find answers, a bunch of twists, turns, and laughs ensue.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "5 wins & 34 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTIxYjUxMTAtNDM5Zi00ZWU1LThhZDMtNDU5ZjEwMzhjMzVmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.7",
+    "imdbVotes": "26,585",
+    "imdbID": "tt14099334",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Sufna",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "14 Feb 2020",
+    "Runtime": "144 min",
+    "Genre": "Romance",
+    "Director": "Jagdeep Sidhu, Jugraj Singh",
+    "Writer": "Jagdeep Sidhu",
+    "Actors": "Ammy Virk, Tania, Jagjeet Sandhu",
+    "Plot": "Jeet is a free-spirited youth in the village, he doesn't care or has not any goal in the life. But his life changes, when he meets Teg, a beautiful young girl from another village.",
+    "Language": "Punjabi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWY4YzViZTUtMzlkNy00YzA1LWI5MDctOTViNGQyMmMxMzNmXkEyXkFqcGdeQXVyMjUxNjcxMjU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "2,257",
+    "imdbID": "tt11173106",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Veer",
+    "Year": "2010",
+    "Rated": "Not Rated",
+    "Released": "22 Jan 2010",
+    "Runtime": "169 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Anil Sharma",
+    "Writer": "Shailesh Verma, Shaktimaan Talwar, Salman Khan",
+    "Actors": "Salman Khan, Mithun Chakraborty, Jackie Shroff",
+    "Plot": "Prithvi seeks revenge on Gyanendra Singh and the British. He sends his son Veer to Britain to study their plans. Veer kills Gyanendra's son but ends up falling in love with his daughter.",
+    "Language": "Hindi, Urdu",
+    "Country": "India",
+    "Awards": "5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2E1MjAxYWQtODQwYS00ODliLWFiMGQtNTgyODYyMmQyNzExXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.6",
+    "imdbVotes": "8,900",
+    "imdbID": "tt1185412",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$527,193",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Swatantrya Veer Savarkar",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "22 Mar 2024",
+    "Runtime": "176 min",
+    "Genre": "Biography, Drama",
+    "Director": "Randeep Hooda",
+    "Writer": "Randeep Hooda, Utkarsh Naithani",
+    "Actors": "Randeep Hooda, Ankita Lokhande, Apinderdeep Singh",
+    "Plot": "The life journey of Indian freedom fighter and reformer Vinayak Damodar Savarkar, popularly known as Veer Savarkar.",
+    "Language": "Hindi, Marathi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjI4N2E5YTYtMDhlZC00OGU5LThhMjYtYjY1OTI4OGQ1ZTNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "14%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.7",
+    "imdbVotes": "16,879",
+    "imdbID": "tt14753612",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Highway",
+    "Year": "2014",
+    "Rated": "Not Rated",
+    "Released": "21 Feb 2014",
+    "Runtime": "133 min",
+    "Genre": "Crime, Drama, Romance",
+    "Director": "Imtiaz Ali",
+    "Writer": "Imtiaz Ali",
+    "Actors": "Alia Bhatt, Randeep Hooda, Durgesh Kumar",
+    "Plot": "Right before her wedding, a young woman finds herself abducted and held for ransom. As the initial days pass, she begins to develop a strange bond with her kidnapper.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "10 wins & 27 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5NjkyNTczM15BMl5BanBnXkFtZTgwNDg4MzE5MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "7.6",
+    "imdbVotes": "31,758",
+    "imdbID": "tt2980794",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$529,136",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Ikk Kudi",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "19 Sep 2025",
+    "Runtime": "150 min",
+    "Genre": "N/A",
+    "Director": "Amarjit Singh Saron",
+    "Writer": "Amarjit Singh Saron, Davinder Virk",
+    "Actors": "Shehnaaz Gill, Juss, Udaybir Sandhu",
+    "Plot": "A woman from a family of broken hearts starts doubting her arranged marriage match and embarks on a quest to uncover her fiancé's mysterious past.",
+    "Language": "Punjabi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjYWVmZTMtYjBlYy00YmU2LWI3OTgtOGUwZWU0YTIzNmEyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.8",
+    "imdbVotes": "384",
+    "imdbID": "tt35063604",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "How to Train Your Dragon",
+    "Year": "2010",
+    "Rated": "PG",
+    "Released": "26 Mar 2010",
+    "Runtime": "98 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Dean DeBlois, Chris Sanders",
+    "Writer": "William Davies, Dean DeBlois, Chris Sanders",
+    "Actors": "Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",
+    "Plot": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+    "Language": "English",
+    "Country": "United Kingdom, France, United States",
+    "Awards": "Nominated for 2 Oscars. 25 wins & 63 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "99%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "8.1",
+    "imdbVotes": "882,954",
+    "imdbID": "tt0892769",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$217,581,231",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Bullet Train",
+    "Year": "2022",
+    "Rated": "R",
+    "Released": "05 Aug 2022",
+    "Runtime": "127 min",
+    "Genre": "Action, Comedy, Thriller",
+    "Director": "David Leitch",
+    "Writer": "Zak Olkewicz, Kôtarô Isaka",
+    "Actors": "Brad Pitt, Joey King, Aaron Taylor-Johnson",
+    "Plot": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+    "Language": "English, Japanese, Spanish, Russian",
+    "Country": "United States, Japan",
+    "Awards": "2 wins & 19 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "7.3",
+    "imdbVotes": "519,374",
+    "imdbID": "tt12593682",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$103,368,602",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "How to Train Your Dragon 2",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "13 Jun 2014",
+    "Runtime": "102 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Dean DeBlois",
+    "Writer": "Dean DeBlois, Cressida Cowell",
+    "Actors": "Jay Baruchel, Cate Blanchett, Gerard Butler",
+    "Plot": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+    "Language": "English",
+    "Country": "United States, India",
+    "Awards": "Nominated for 1 Oscar. 15 wins & 61 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "7.8",
+    "imdbVotes": "398,152",
+    "imdbID": "tt1646971",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$177,002,924",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Train to Busan",
+    "Year": "2016",
+    "Rated": "Not Rated",
+    "Released": "20 Jul 2016",
+    "Runtime": "118 min",
+    "Genre": "Action, Horror, Thriller",
+    "Director": "Yeon Sang-ho",
+    "Writer": "Park Joo-suk, Yeon Sang-ho",
+    "Actors": "Gong Yoo, Jung Yu-mi, Ma Dong-seok",
+    "Plot": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+    "Language": "Korean, English, Hawaiian",
+    "Country": "South Korea",
+    "Awards": "36 wins & 42 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.6",
+    "imdbVotes": "300,921",
+    "imdbID": "tt5700672",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,129,768",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "How to Train Your Dragon: The Hidden World",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "22 Feb 2019",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Dean DeBlois",
+    "Writer": "Dean DeBlois, Cressida Cowell",
+    "Actors": "Jay Baruchel, America Ferrera, F. Murray Abraham",
+    "Plot": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek the Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+    "Language": "English",
+    "Country": "United States, Japan",
+    "Awards": "Nominated for 1 Oscar. 7 wins & 66 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.4",
+    "imdbVotes": "175,859",
+    "imdbID": "tt2386490",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$160,945,505",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "How to Train Your Dragon",
+    "Year": "2025",
+    "Rated": "PG",
+    "Released": "13 Jun 2025",
+    "Runtime": "125 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Dean DeBlois",
+    "Writer": "Dean DeBlois, Cressida Cowell, William Davies",
+    "Actors": "Mason Thames, Nico Parker, Gerard Butler",
+    "Plot": "As an ancient threat endangers both Vikings and dragons alike on the isle of Berk, the friendship between Hiccup, an inventive Viking, and Toothless, a Night Fury dragon, becomes the key to both species forging a new future together.",
+    "Language": "English",
+    "Country": "United States, United Kingdom, Ireland, Iceland, Canada",
+    "Awards": "Nominated for 1 BAFTA Award2 wins & 18 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODA5Y2M0NjctNWQzMy00ODRhLWE0MzUtYmE1YTAzZjYyYmQyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.7",
+    "imdbVotes": "122,205",
+    "imdbID": "tt26743210",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$262,958,100",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "23 Apr 2021",
+    "Runtime": "117 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Haruo Sotozaki",
+    "Writer": "Koyoharu Gotouge",
+    "Actors": "Natsuki Hanae, Akari Kitô, Yoshitsugu Matsuoka",
+    "Plot": "After his family was brutally murdered and his sister turned into a demon, Tanjiro Kamado's journey as a demon slayer began. Tanjiro and his comrades embark on a new mission aboard the Mugen Train, on track to despair.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "6 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzEzYjhkYTctMWNmZS00MTc5LWI4OWUtZjFkNzNkYTNkMTJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "8.2",
+    "imdbVotes": "98,764",
+    "imdbID": "tt11032374",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$49,888,550",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Zootopia+",
+    "Year": "2022",
+    "Rated": "TV-PG",
+    "Released": "09 Nov 2022",
+    "Runtime": "N/A",
+    "Genre": "Animation, Short, Adventure",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "John Lavelle, Katie Lowes, Joey Lawrence",
+    "Plot": "The adventures of the creatures of the most incredible metropolis: Zootopia.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "1 win & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTE0ZTQyZDYtMzc1Zi00NGIwLTg1ZDQtZTc1MWM1NmM1YmYzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "6,980",
+    "imdbID": "tt13622956",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+},{
+    "Title": "Zootopia 2",
+    "Year": "2025",
+    "Rated": "PG",
+    "Released": "26 Nov 2025",
+    "Runtime": "108 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Jared Bush, Byron Howard",
+    "Writer": "Jared Bush",
+    "Actors": "Ginnifer Goodwin, Jason Bateman, Ke Huy Quan",
+    "Plot": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 9 wins & 74 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.4",
+    "imdbVotes": "83,646",
+    "imdbID": "tt26443597",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$421,357,518",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Zootopia",
+    "Year": "2016",
+    "Rated": "PG",
+    "Released": "04 Mar 2016",
+    "Runtime": "108 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Byron Howard, Rich Moore, Jared Bush",
+    "Writer": "Byron Howard, Rich Moore, Jared Bush",
+    "Actors": "Ginnifer Goodwin, Jason Bateman, Idris Elba",
+    "Plot": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 49 wins & 75 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.0",
+    "imdbVotes": "625,023",
+    "imdbID": "tt2948356",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$341,268,248",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Shaina",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "21 Aug 2020",
+    "Runtime": "97 min",
+    "Genre": "Drama",
+    "Director": "Beautie Masvaure Alt",
+    "Writer": "Wanisai Chigwendere",
+    "Actors": "Wilmah Munemera, Tinodiwanashe Chitima, Gamu Mukwakwami",
+    "Plot": "Shaina is the story of Shine, a teenager in Zimbabwe who doesn't believe in herself. In the face of life-altering events, she is forced to rely on her own ingenuity and determination to face her future. It's a story of forgiveness...",
+    "Language": "English",
+    "Country": "Zimbabwe",
+    "Awards": "1 win & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmVkZTY4NjktMGRhYy00YzJmLTg0OGEtZWEyZGI4MDY0ODhmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.3",
+    "imdbVotes": "68",
+    "imdbID": "tt13498060",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Fight Club",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "15 Oct 1999",
+    "Runtime": "139 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "David Fincher",
+    "Writer": "Chuck Palahniuk, Jim Uhls",
+    "Actors": "Brad Pitt, Edward Norton, Meat Loaf",
+    "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "Language": "English",
+    "Country": "United States, Germany",
+    "Awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "8.8",
+    "imdbVotes": "2,567,948",
+    "imdbID": "tt0137523",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$37,030,102",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Oppenheimer",
+    "Year": "2023",
+    "Rated": "R",
+    "Released": "21 Jul 2023",
+    "Runtime": "180 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan, Kai Bird, Martin Sherwin",
+    "Actors": "Cillian Murphy, Emily Blunt, Matt Damon",
+    "Plot": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+    "Language": "English, German, Italian, Dutch",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 7 Oscars. 364 wins & 376 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "90/100"
+        }
+    ],
+    "Metascore": "90",
+    "imdbRating": "8.2",
+    "imdbVotes": "1,008,589",
+    "imdbID": "tt15398776",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$330,078,895",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Inception",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "16 Jul 2010",
+    "Runtime": "148 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+    "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster.",
+    "Language": "English, Japanese, French",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 4 Oscars. 160 wins & 220 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "74/100"
+        }
+    ],
+    "Metascore": "74",
+    "imdbRating": "8.8",
+    "imdbVotes": "2,793,322",
+    "imdbID": "tt1375666",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$292,587,330",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},
     
 ];
   
