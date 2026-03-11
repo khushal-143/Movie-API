@@ -6615,7 +6615,7 @@ app.use(express.json());
     "Language": "Hindi",
     "Country": "India",
     "Awards": "3 nominations",
-    "Poster": "https://www.imdb.com/title/tt0476805/mediaviewer/rm3218187266/?ref_=ext_shr_lnk",
+    "Poster": "N/A",
     "Ratings": [
         {
             "Source": "Internet Movie Database",
