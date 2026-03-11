@@ -346,36 +346,40 @@ app.use(express.json());
 "Website": "N/A",
 "Response": "True"
 },{
-"Title": "Sholay",
-"Year": "1977",
-"Rated": "N/A",
-"Released": "N/A",
-"Runtime": "N/A",
-"Genre": "N/A",
-"Director": "S.A. Saeedi",
-"Writer": "N/A",
-"Actors": "Amaan, Jamal Baber, Talat Iqbal",
-"Plot": "N/A",
-"Language": "Pashtu",
-"Country": "Pakistan",
-"Awards": "N/A",
-"Poster": "N/A",
-"Ratings": [
-{
-    "Source": "Internet Movie Database",
-    "Value": "4.6/10"
-}
-],
-"Metascore": "N/A",
-"imdbRating": "4.6",
-"imdbVotes": "14",
-"imdbID": "tt0400818",
-"Type": "movie",
-"DVD": "N/A",
-"BoxOffice": "N/A",
-"Production": "N/A",
-"Website": "N/A",
-"Response": "True"
+    "Title": "Sholay",
+    "Year": "1975",
+    "Rated": "Not Rated",
+    "Released": "15 Aug 1975",
+    "Runtime": "162 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Ramesh Sippy",
+    "Writer": "Javed Akhtar, Salim Khan",
+    "Actors": "Sanjeev Kumar, Dharmendra, Amitabh Bachchan",
+    "Plot": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "5 wins & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmI1NTRmMWQtNDJlZC00MGIzLWEwYzctYTQwNTI2NWNjM2MwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.1",
+    "imdbVotes": "62,815",
+    "imdbID": "tt0073707",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
 },{
 "Title": "The Sholay Girl",
 "Year": "2019",
@@ -6766,41 +6770,6 @@ app.use(express.json());
     "imdbRating": "7.8",
     "imdbVotes": "5,028",
     "imdbID": "tt5600714",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "N/A",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-},{
-    "Title": "Sholay",
-    "Year": "1975",
-    "Rated": "Not Rated",
-    "Released": "15 Aug 1975",
-    "Runtime": "162 min",
-    "Genre": "Action, Adventure, Comedy",
-    "Director": "Ramesh Sippy",
-    "Writer": "Javed Akhtar, Salim Khan",
-    "Actors": "Sanjeev Kumar, Dharmendra, Amitabh Bachchan",
-    "Plot": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.",
-    "Language": "Hindi",
-    "Country": "India",
-    "Awards": "5 wins & 5 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNmI1NTRmMWQtNDJlZC00MGIzLWEwYzctYTQwNTI2NWNjM2MwXkEyXkFqcGc@._V1_SX300.jpg",
-    "Ratings": [
-        {
-            "Source": "Internet Movie Database",
-            "Value": "8.1/10"
-        },
-        {
-            "Source": "Rotten Tomatoes",
-            "Value": "95%"
-        }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "8.1",
-    "imdbVotes": "62,815",
-    "imdbID": "tt0073707",
     "Type": "movie",
     "DVD": "N/A",
     "BoxOffice": "N/A",
