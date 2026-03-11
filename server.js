@@ -6252,41 +6252,6 @@ app.use(express.json());
     "Website": "N/A",
     "Response": "True"
 },{
-    "Title": "Yeh Jawaani Hai Deewani",
-    "Year": "2013",
-    "Rated": "Not Rated",
-    "Released": "31 May 2013",
-    "Runtime": "160 min",
-    "Genre": "Comedy, Drama, Musical",
-    "Director": "Ayan Mukerji",
-    "Writer": "Hussain Dalal, Ayan Mukerji",
-    "Actors": "Ranbir Kapoor, Deepika Padukone, Aditya Roy Kapoor",
-    "Plot": "Kabir and Naina bond during a trekking trip. Before Naina can express herself, Kabir leaves India to pursue his career. They meet again years later, but he still cherishes his dreams more than bonds.",
-    "Language": "Hindi",
-    "Country": "India",
-    "Awards": "24 wins & 96 nominations total",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BODA4MjM2ODk4OF5BMl5BanBnXkFtZTcwNDgzODk1OQ@@._V1_SX300.jpg",
-    "Ratings": [
-        {
-            "Source": "Internet Movie Database",
-            "Value": "7.3/10"
-        },
-        {
-            "Source": "Rotten Tomatoes",
-            "Value": "70%"
-        }
-    ],
-    "Metascore": "N/A",
-    "imdbRating": "7.3",
-    "imdbVotes": "54,074",
-    "imdbID": "tt2178470",
-    "Type": "movie",
-    "DVD": "N/A",
-    "BoxOffice": "$3,827,466",
-    "Production": "N/A",
-    "Website": "N/A",
-    "Response": "True"
-},{
     "Title": "Billu",
     "Year": "2009",
     "Rated": "Not Rated",
