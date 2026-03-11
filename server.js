@@ -6632,7 +6632,182 @@ app.use(express.json());
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
-}
+},{
+    "Title": "Mela",
+    "Year": "2000",
+    "Rated": "N/A",
+    "Released": "07 Jan 2000",
+    "Runtime": "172 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Dharmesh Darshan",
+    "Writer": "Robin Bhatt, Dharmesh Darshan, Sanjeev Duggal",
+    "Actors": "Aamir Khan, Twinkle Khanna, Faisal Khan",
+    "Plot": "When a village belle's brother is killed by a bandit, she vows revenge and enlists the help of two truckers-come-theatre artists in her mission.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjlmZTcxOTYtYmUwZC00NTY2LWE0ODctYjZjMDEzOTgzMGE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.7/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "3.7",
+    "imdbVotes": "5,046",
+    "imdbID": "tt0232079",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$220,524",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Laal Singh Chaddha",
+    "Year": "2022",
+    "Rated": "PG-13",
+    "Released": "11 Aug 2022",
+    "Runtime": "159 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Advait Chandan",
+    "Writer": "Atul Kulkarni, Winston Groom, Eric Roth",
+    "Actors": "Sharik Khan Jr., Aamir Khan, Ahmad Ibn Umar",
+    "Plot": "The story of Laal Singh Chaddha, a simple man whose extraordinary journey will fill you with love, warmth and happiness.",
+    "Language": "Hindi, Punjabi, English",
+    "Country": "India",
+    "Awards": "5 wins & 26 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1ODNiMWItODk3YS00MGUwLTkxNTgtOGI0OGZmZTgwZDZhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "5.6",
+    "imdbVotes": "178,736",
+    "imdbID": "tt10028196",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$3,401,324",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Laal Kaptaan",
+    "Year": "2019",
+    "Rated": "Not Rated",
+    "Released": "18 Oct 2019",
+    "Runtime": "155 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Navdeep Singh",
+    "Writer": "Abdul Rafay Chandio, Sudip Sharma, Siddha",
+    "Actors": "Saif Ali Khan, Zoya Hussain, Manav Vij",
+    "Plot": "In an 18th century setting, a Naga sadhu in India sets out on a journey across Bundelkhand to seek revenge for an injustice committed in the past.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 win & 5 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzcwZGQ1OWQtOWQxNC00YmM0LWIyMmYtMTM5MmQ5ODYyMjJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "11%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "5,430",
+    "imdbID": "tt9052960",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Laal Rang",
+    "Year": "2016",
+    "Rated": "Not Rated",
+    "Released": "22 Apr 2016",
+    "Runtime": "147 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Syed Ahmad Afzal",
+    "Writer": "Syed Ahmad Afzal, Pankaj Matta",
+    "Actors": "Randeep Hooda, Akshay Oberoi, Rajneesh Duggal",
+    "Plot": "The friendship of two men is tested when things go wrong in their blood theft business.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmU4MzMyNjAtNmEzZS00YjRjLTgxNWMtNzRlNGY1MTAwZGE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.8",
+    "imdbVotes": "5,028",
+    "imdbID": "tt5600714",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Sholay",
+    "Year": "1975",
+    "Rated": "Not Rated",
+    "Released": "15 Aug 1975",
+    "Runtime": "162 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Ramesh Sippy",
+    "Writer": "Javed Akhtar, Salim Khan",
+    "Actors": "Sanjeev Kumar, Dharmendra, Amitabh Bachchan",
+    "Plot": "After his family is murdered by a notorious and ruthless bandit, a former police officer enlists the services of two outlaws to capture the bandit.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "5 wins & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmI1NTRmMWQtNDJlZC00MGIzLWEwYzctYTQwNTI2NWNjM2MwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.1",
+    "imdbVotes": "62,815",
+    "imdbID": "tt0073707",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},
     
 ];
   
