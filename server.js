@@ -5771,7 +5771,868 @@ app.use(express.json());
     "Production": "N/A",
     "Website": "N/A",
     "Response": "True"
-},
+},{
+    "Title": "Baahubali: The Beginning",
+    "Year": "2015",
+    "Rated": "Not Rated",
+    "Released": "09 Jul 2015",
+    "Runtime": "159 min",
+    "Genre": "Action, Drama",
+    "Director": "S.S. Rajamouli",
+    "Writer": "Vijayendra Prasad, S.S. Rajamouli, C.H. Vijay Kumar",
+    "Actors": "Prabhas, Rana Daggubati, Anushka Shetty",
+    "Plot": "A child from the Mahishmati kingdom is raised by tribal people and one day learns about his royal heritage, his father's bravery in battle and a mission to overthrow the incumbent ruler.",
+    "Language": "Telugu, Tamil",
+    "Country": "India",
+    "Awards": "55 wins & 22 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2YxZThhZmEtYzM0Yi00OWYxLWI4NGYtM2Y2ZDNmOGE0ZWQzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "148,835",
+    "imdbID": "tt2631186",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$6,738,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Baahubali 2: The Conclusion",
+    "Year": "2017",
+    "Rated": "Not Rated",
+    "Released": "28 Apr 2017",
+    "Runtime": "167 min",
+    "Genre": "Action, Drama",
+    "Director": "S.S. Rajamouli",
+    "Writer": "Vijayendra Prasad, S.S. Rajamouli, C.H. Vijay Kumar",
+    "Actors": "Prabhas, Rana Daggubati, Anushka Shetty",
+    "Plot": "Amarendra Baahubali, the heir apparent to the throne of Mahishmati, finds his life and relationships endangered as his adoptive brother Bhallaladeva conspires to claim the throne.",
+    "Language": "Telugu, Tamil",
+    "Country": "India",
+    "Awards": "29 wins & 16 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTRhYTlhZTgtYmMyYy00NWI4LTk4MzItOWM2YjBmYTg2OTI2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.2",
+    "imdbVotes": "132,342",
+    "imdbID": "tt4849438",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$20,186,659",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Baahubali: Crown of Blood",
+    "Year": "2024–",
+    "Rated": "N/A",
+    "Released": "17 May 2024",
+    "Runtime": "N/A",
+    "Genre": "Animation, Action",
+    "Director": "N/A",
+    "Writer": "Sharad Devarajan, S.S. Rajamouli",
+    "Actors": "Rajesh Khattar, Sharad Kelkar, Aviral Kumar",
+    "Plot": "Set before the events of the films, this prequel follows Baahubali and Bhallaladeva as they unite to protect their kingdom, Mahishmati, and its throne from the looming danger of Raktadeva, a mysterious and powerful warlord.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODU0MWJhNjEtNDNiMC00NzcyLWIxZDYtNTc1ZDQ4NzRlMTIyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.4",
+    "imdbVotes": "2,217",
+    "imdbID": "tt32263319",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+},{
+    "Title": "Baahubali: The Epic",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "31 Oct 2025",
+    "Runtime": "225 min",
+    "Genre": "Action, Drama",
+    "Director": "S.S. Rajamouli",
+    "Writer": "Vijayendra Prasad, S.S. Rajamouli",
+    "Actors": "Prabhas, Rana Daggubati, Anushka Shetty",
+    "Plot": "A legendary warrior emerges from humble beginnings to challenge powerful forces threatening his homeland, as ancient prophecies and family bonds shape his journey.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmIwYTI3ODItMzRkOS00MzlhLWI4NzQtNDFmOGJhZGJhM2VkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "8.5",
+    "imdbVotes": "1,178",
+    "imdbID": "tt37893389",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,039,440",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Baahubali: The Lost Legends",
+    "Year": "2017–",
+    "Rated": "N/A",
+    "Released": "23 Apr 2017",
+    "Runtime": "23 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "N/A",
+    "Writer": "Sharad Devarajan, S.S. Rajamouli",
+    "Actors": "Viraj Adhav, Manoj Pandey, Manini Mishra",
+    "Plot": "Two royal princes embark on an exciting journey to rule the kingdom of Mahishmati and prove their worth.",
+    "Language": "N/A",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzE5ZmJhNzMtNTZlNS00NDdjLTkwNTQtYWE0MjVmY2RjYjUyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.1",
+    "imdbVotes": "603",
+    "imdbID": "tt5523460",
+    "Type": "series",
+    "totalSeasons": "5",
+    "Response": "True"
+},{
+    "Title": "Fukrey",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "14 Jun 2013",
+    "Runtime": "139 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Mrighdeep Lamba",
+    "Writer": "Mrighdeep Lamba, Vipul Vig",
+    "Actors": "Pulkit Samrat, Manjot Singh, Ali Fazal",
+    "Plot": "The paths of four dream-chasing college friends cross with an array of colourful characters, from a tough-talking Punjabi female don to a Jugaad Baaz college watchman. Mayhem ensues.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "5 wins & 13 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODI5MzQ2NDg0MV5BMl5BanBnXkFtZTcwNTEwMzI1OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.9",
+    "imdbVotes": "13,632",
+    "imdbID": "tt2806788",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$125,279",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Fukrey Returns",
+    "Year": "2017",
+    "Rated": "Not Rated",
+    "Released": "08 Dec 2017",
+    "Runtime": "141 min",
+    "Genre": "Comedy",
+    "Director": "Mrighdeep Lamba",
+    "Writer": "Vipul Vig, Mrighdeep Lamba",
+    "Actors": "Pulkit Samrat, Varun Sharma, Ali Fazal",
+    "Plot": "Just out of jail, a don is ready to get back at the four friends who conned her.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmRlNmYxODItNWYyNy00ZGU2LTk0NzMtZTNlMWJhODM4ZjdiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "11%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "6,565",
+    "imdbID": "tt6712014",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Fukrey 3",
+    "Year": "2023",
+    "Rated": "Not Rated",
+    "Released": "28 Sep 2023",
+    "Runtime": "147 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Mrighdeep Lamba",
+    "Writer": "Vipul Vig",
+    "Actors": "Pulkit Samrat, Varun Sharma, Manjot Singh",
+    "Plot": "The friends facing disastrously funny situations together and having each other's backs through the trenches to make it out of a new mess this time.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 win & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDk1OGVjMWEtN2UwNy00MDlhLWFhMWEtMTAzYTlkZGZkYTcwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.5",
+    "imdbVotes": "24,512",
+    "imdbID": "tt26445483",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Fukrey Boyzzz",
+    "Year": "2019–",
+    "Rated": "TV-Y",
+    "Released": "12 Oct 2019",
+    "Runtime": "N/A",
+    "Genre": "Animation, Comedy",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Vikky Kumar, Blué, Viraaj Modgill",
+    "Plot": "Choocha, Hunny and Laali pursue their outlandish and sometimes dangerous dreams while the scheming Bholi Punjaban constantly tries to sabotage their plans.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTY4NTY5NzEtMmY3MC00MDhjLTg2OGItZjBlMTliYThkNzg5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "37",
+    "imdbID": "tt13788916",
+    "Type": "series",
+    "totalSeasons": "N/A",
+    "Response": "True"
+},{
+    "Title": "The White Tiger",
+    "Year": "2021",
+    "Rated": "R",
+    "Released": "22 Jan 2021",
+    "Runtime": "125 min",
+    "Genre": "Crime, Drama",
+    "Director": "Ramin Bahrani",
+    "Writer": "Ramin Bahrani, Aravind Adiga",
+    "Actors": "Adarsh Gourav, Rajkummar Rao, Priyanka Chopra Jonas",
+    "Plot": "An ambitious Indian driver uses his wit and cunning to escape from poverty and rise to the top. An epic journey based on the New York Times bestseller.",
+    "Language": "Hindi, English",
+    "Country": "India, United States",
+    "Awards": "Nominated for 1 Oscar. 7 wins & 17 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWUyNDEyMDgtM2IwNy00MTllLWJiMzUtODQ2ODcxZjk4N2ExXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.1",
+    "imdbVotes": "67,626",
+    "imdbID": "tt6571548",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Ek Tha Tiger",
+    "Year": "2012",
+    "Rated": "Not Rated",
+    "Released": "27 Dec 2025",
+    "Runtime": "132 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Kabir Khan",
+    "Writer": "Aditya Chopra, Kabir Khan, Neelesh Misra",
+    "Actors": "Salman Khan, Katrina Kaif, Girish Karnad",
+    "Plot": "A RAW agent, Tiger, is sent to Dublin to observe an Indian scientist who is suspected of sharing nuclear secrets with the ISI. He meets and falls for his caretaker Zoya, a girl with a dark secret.",
+    "Language": "Hindi, English",
+    "Country": "India",
+    "Awards": "19 wins & 16 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjUzOWEzZTMtNDQzYS00ZDI4LWI4NjctNzcyN2NkY2IwMTA4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "75%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "41,832",
+    "imdbID": "tt2016894",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,347,774",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Tiger Zinda Hai",
+    "Year": "2017",
+    "Rated": "Not Rated",
+    "Released": "22 Dec 2017",
+    "Runtime": "161 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Ali Abbas Zafar, Md Minhaj Miah",
+    "Writer": "Neelesh Misra, Ali Abbas Zafar, Aditya Chopra",
+    "Actors": "Salman Khan, Katrina Kaif, Khalida Jan",
+    "Plot": "RAW Agent Tiger joins forces with Zoya in order to rescue a group of nurses who are held hostage by a terrorist organisation.",
+    "Language": "Hindi, English",
+    "Country": "India",
+    "Awards": "5 wins & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzdiNDU4NjUtNmNjMi00YTc5LTk0OTQtNjY4ODQzMDUzYmI4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "35,935",
+    "imdbID": "tt5956100",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$5,560,921",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Tiger 3",
+    "Year": "2023",
+    "Rated": "Not Rated",
+    "Released": "11 Nov 2023",
+    "Runtime": "155 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Maneesh Sharma",
+    "Writer": "Shridhar Raghavan, Anckur Chaudhry, Aditya Chopra",
+    "Actors": "Salman Khan, Katrina Kaif, Emraan Hashmi",
+    "Plot": "Tiger and Zoya are back - to save the country and their family. This time it's personal.",
+    "Language": "Hindi, English, Vietnamese",
+    "Country": "India",
+    "Awards": "14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ1MzkzZDYtMzg1YS00ODE0LTgyYTYtNDdkOWNjMDFhMmZjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "55,731",
+    "imdbID": "tt18411490",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$5,365,263",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "RRR",
+    "Year": "2022",
+    "Rated": "TV-MA",
+    "Released": "25 Mar 2022",
+    "Runtime": "187 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "S.S. Rajamouli",
+    "Writer": "Vijayendra Prasad, S.S. Rajamouli, Sai Madhav Burra",
+    "Actors": "N.T. Rama Rao Jr., Ram Charan, Ajay Devgn",
+    "Plot": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Won 1 Oscar. 93 wins & 152 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.8",
+    "imdbVotes": "201,689",
+    "imdbID": "tt8178634",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$15,156,051",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Yeh Jawaani Hai Deewani",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "31 May 2013",
+    "Runtime": "160 min",
+    "Genre": "Comedy, Drama, Musical",
+    "Director": "Ayan Mukerji",
+    "Writer": "Hussain Dalal, Ayan Mukerji",
+    "Actors": "Ranbir Kapoor, Deepika Padukone, Aditya Roy Kapoor",
+    "Plot": "Kabir and Naina bond during a trekking trip. Before Naina can express herself, Kabir leaves India to pursue his career. They meet again years later, but he still cherishes his dreams more than bonds.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "24 wins & 96 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODA4MjM2ODk4OF5BMl5BanBnXkFtZTcwNDgzODk1OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "70%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.3",
+    "imdbVotes": "54,074",
+    "imdbID": "tt2178470",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$3,827,466",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Billu",
+    "Year": "2009",
+    "Rated": "Not Rated",
+    "Released": "13 Feb 2009",
+    "Runtime": "137 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Priyadarshan",
+    "Writer": "Manisha Korde, Priyadarshan, Mushtaq Shiekh",
+    "Actors": "Irrfan Khan, Lara Dutta, Om Puri",
+    "Plot": "In an Indian village, a struggling barber sees his luck begin to turn when residents learn that a famous actor he once knew is coming to town.",
+    "Language": "Hindi, Awadhi",
+    "Country": "India",
+    "Awards": "3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2M4M2Y0NTEtMTU4ZS00OTA5LWE1YmMtMzViNmY3ZDc5NmRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.4",
+    "imdbVotes": "13,974",
+    "imdbID": "tt1230448",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$754,928",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Swades",
+    "Year": "2004",
+    "Rated": "Not Rated",
+    "Released": "17 Dec 2004",
+    "Runtime": "189 min",
+    "Genre": "Drama, Musical",
+    "Director": "Ashutosh Gowariker",
+    "Writer": "M.G. Sathya, Ashutosh Gowariker, Sameer Sharma",
+    "Actors": "Shah Rukh Khan, Gayatri Joshi, Kishori Ballal",
+    "Plot": "A successful Indian scientist returns to an Indian village to take his nanny to America with him and in the process rediscovers his roots.",
+    "Language": "Hindi, English",
+    "Country": "India, United States",
+    "Awards": "18 wins & 26 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWJlNmQ2NmQtM2U3Yi00MTZjLWI1YzktY2I2MmExMzgwNmE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.2",
+    "imdbVotes": "100,779",
+    "imdbID": "tt0367110",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,223,240",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Barfi!",
+    "Year": "2012",
+    "Rated": "Not Rated",
+    "Released": "14 Sep 2012",
+    "Runtime": "151 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Anurag Basu",
+    "Writer": "Anurag Basu, Tani Basu, Sanjeev Dutta",
+    "Actors": "Ranbir Kapoor, Priyanka Chopra Jonas, Ileana D'Cruz",
+    "Plot": "Three young people learn that love can neither be defined nor contained by society's definition of normal and abnormal.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "68 wins & 40 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.1",
+    "imdbVotes": "91,570",
+    "imdbID": "tt2082197",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,804,874",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Yeh Jawaani Hai Deewani",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "31 May 2013",
+    "Runtime": "160 min",
+    "Genre": "Comedy, Drama, Musical",
+    "Director": "Ayan Mukerji",
+    "Writer": "Hussain Dalal, Ayan Mukerji",
+    "Actors": "Ranbir Kapoor, Deepika Padukone, Aditya Roy Kapoor",
+    "Plot": "Kabir and Naina bond during a trekking trip. Before Naina can express herself, Kabir leaves India to pursue his career. They meet again years later, but he still cherishes his dreams more than bonds.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "24 wins & 96 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODA4MjM2ODk4OF5BMl5BanBnXkFtZTcwNDgzODk1OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "70%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.3",
+    "imdbVotes": "54,074",
+    "imdbID": "tt2178470",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$3,827,466",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Delhi Safari",
+    "Year": "2012",
+    "Rated": "PG",
+    "Released": "07 Dec 2012",
+    "Runtime": "96 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Nikkhil Advani",
+    "Writer": "Nikkhil Advani, Rahul Awate, Girish Dhamija",
+    "Actors": "Govinda, Akshaye Khanna, Urmila Matondkar",
+    "Plot": "A group of animals plan a trip to Delhi in order to ask the parliament why the forest they live in is on the verge of destruction.",
+    "Language": "Hindi, English",
+    "Country": "India",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyOTg2NzAwM15BMl5BanBnXkFtZTcwMTUxNjU0OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "5.5",
+    "imdbVotes": "2,131",
+    "imdbID": "tt1172587",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Delhi Belly",
+    "Year": "2011",
+    "Rated": "Not Rated",
+    "Released": "01 Jul 2011",
+    "Runtime": "103 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Abhinay Deo, Akshat Verma",
+    "Writer": "Mr. Moris, Akshat Verma",
+    "Actors": "Imran Khan, Vir Das, Kunaal Roy Kapur",
+    "Plot": "Three struggling room-mates unknowingly become potential prey of a ruthless gangster.",
+    "Language": "English, Hindi",
+    "Country": "India",
+    "Awards": "6 wins & 23 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmMyZjk0MjUtZmEwZi00YmJjLWIyNGQtZDA0NzBjNWJjZjIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "7.6",
+    "imdbVotes": "33,003",
+    "imdbID": "tt1934231",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,532,594",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Dhamaal",
+    "Year": "2007",
+    "Rated": "Not Rated",
+    "Released": "07 Sep 2007",
+    "Runtime": "136 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Indra Kumar",
+    "Writer": "Paritosh Painter, Balvinder Singh Suri, Bunty Rathore",
+    "Actors": "Sanjay Dutt, Riteish Deshmukh, Arshad Warsi",
+    "Plot": "Four lazy slacker conmen buddies learn about the secret of a hidden treasure from a dying thief and set out to find and claim it while being pursued by a determined police inspector who is hellbent to get the treasure all by himself.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 win & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWU3OTEzODgtMWY4OS00N2NkLWJlNGQtMWZhZDJmODQwN2E5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "19,863",
+    "imdbID": "tt0845448",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$166,339",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Double Dhamaal",
+    "Year": "2011",
+    "Rated": "N/A",
+    "Released": "01 Jul 2011",
+    "Runtime": "138 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Indra Kumar",
+    "Writer": "Tushar Hiranandani, Sajid, Farhad Samji",
+    "Actors": "Sanjay Dutt, Riteish Deshmukh, Arshad Warsi",
+    "Plot": "Four slackers decide to avenge their humiliation at the hands of a con-man.",
+    "Language": "Hindi, Marathi, Punjabi, Tamil, English",
+    "Country": "India",
+    "Awards": "1 win & 7 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzEwNjIxOTI4NV5BMl5BanBnXkFtZTcwODk0ODg0NQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "17%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.0",
+    "imdbVotes": "4,760",
+    "imdbID": "tt1728239",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$543,646",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Total Dhamaal",
+    "Year": "2019",
+    "Rated": "Not Rated",
+    "Released": "22 Feb 2019",
+    "Runtime": "130 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Indra Kumar",
+    "Writer": "Paritosh Painter, Ved Prakash, Bunty Rathore",
+    "Actors": "Ajay Devgn, Anil Kapoor, Madhuri Dixit",
+    "Plot": "A group of people learn about a hidden treasure and then they race to find it and claim it.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "1 win & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjhkY2ViNTYtYjc3MC00OWU3LWFhYWMtMjU5ZDhjZTNkYTc3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.2",
+    "imdbVotes": "8,150",
+    "imdbID": "tt7639372",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,167,632",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+},{
+    "Title": "Malamaal Weekly",
+    "Year": "2006",
+    "Rated": "N/A",
+    "Released": "10 Mar 2006",
+    "Runtime": "137 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Priyadarshan",
+    "Writer": "Manisha Korde, Priyadarshan, Chandu Shah",
+    "Actors": "Paresh Rawal, Om Puri, Riteish Deshmukh",
+    "Plot": "Lilaram sells lottery tickets and one customer has hit the jackpot but dies of shock upon finding out that he has won. Now, Lilaram wants all the money, and so does everyone around him.",
+    "Language": "Hindi",
+    "Country": "India",
+    "Awards": "3 nominations",
+    "Poster": "https://www.imdb.com/title/tt0476805/mediaviewer/rm3218187266/?ref_=ext_shr_lnk",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "8,181",
+    "imdbID": "tt0476805",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$204,612",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
     
 ];
   
